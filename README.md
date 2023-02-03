@@ -15,7 +15,7 @@ the software you can use for uploading (and editing) is `TI Connect CE` (win onl
 make sure the calc is passed trough to the VM
 
 
-PROTIP
+[no this actually doesn't work, cuz you can't execute an archived program] PROTIP
 
 you can put the programs in the `archive` memory and benefit SOOO MUCH
 
